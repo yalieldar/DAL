@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Extend
+namespace DAL.Models1
 {
-    internal class StudentGrade
+    public partial class StudentGrade
     {
     }
 }
